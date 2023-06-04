@@ -12,7 +12,7 @@ const router = createRouter({
   history:createWebHistory(),
   routes: [
     {
-      path:'/LandigVue/',
+      path:'/',
       name:'Home',
       component:Home ,
     },
